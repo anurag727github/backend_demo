@@ -1,0 +1,19 @@
+{
+  "name": "backend_demo",
+  "version": "1.0.0",
+  "description": "A demo deplop web project",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Anurag Ilake",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
